@@ -1,0 +1,31 @@
+.aguilar-img {
+  background-image: url('https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/04112957/Celeste-Aguilar.jpg');
+  background-size: cover;
+  height: 200px
+}
+
+.hamdia-img {
+  background-image: url('https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/03125624/Hamdia-Ahmed.jpg');
+  background-size: cover;
+  background-position: 55% 75%;
+  height: 100%
+}
+
+.ziad-img {
+  background-image: url('https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/03100125/Ziad-Ahmed.jpg');
+  background-size: cover;
+  height: 100%
+}
+
+.santos-img {
+  background-image: url('https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/03141319/Santos-Amaya-Guevara.jpg');
+  background-size: cover;
+  background-position: 75% 75%;
+  height: 100%
+}
+
+.anya-img {
+  background-image: url('https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/03130428/Anya-Andrews-e1522785884729.jpg');
+  background-size: cover;
+  height: 100%
+}
