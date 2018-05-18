@@ -1,33 +1,82 @@
 .aguilar-img {
   background-image: url('https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/04112957/Celeste-Aguilar.jpg');
   background-size: cover;
-  height: 200px
+  height: 10em;
+  border-top-left-radius: 0.25em;
+  border-top-right-radius: 0.25em;
 }
 
 .hamdia-img {
   background-image: url('https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/03125624/Hamdia-Ahmed.jpg');
   background-size: cover;
-  background-position: 55% 75%;
-  height: 100%
+  height: 10em;
+  border-top-left-radius: 0.25em;
+  border-top-right-radius: 0.25em;
 }
 
 .ziad-img {
   background-image: url('https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/03100125/Ziad-Ahmed.jpg');
   background-size: cover;
-  height: 100%
+  height: 10em;
+  border-top-left-radius: 0.25em;
+  border-top-right-radius: 0.25em;
 }
 
 .santos-img {
   background-image: url('https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/03141319/Santos-Amaya-Guevara.jpg');
   background-size: cover;
   background-position: 75% 75%;
-  height: 100%
+  height: 10em;
+  border-top-left-radius: 0.25em;
+  border-top-right-radius: 0.25em;
 }
 
 .anya-img {
   background-image: url('https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/03130428/Anya-Andrews-e1522785884729.jpg');
   background-size: cover;
-  height: 100%
+  height: 10em;
+  border-top-left-radius: 0.25em;
+  border-top-right-radius: 0.25em;
+}
+
+.seun-img {
+  background-image: url('https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/03093335/Seun-Babaloa.jpg');
+  background-size: cover;
+  height: 10em;
+  border-top-left-radius: 0.25em;
+  border-top-right-radius: 0.25em;
+}
+
+.mari-img {
+  background-image: url('https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/03142130/Mari-Copeny.jpg');
+  background-size: cover;
+  height: 10em;
+  border-top-left-radius: 0.25em;
+  border-top-right-radius: 0.25em;
+}
+
+.grace-img {
+  background-image: url('https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/03142342/Grace-Dolan-Sandrino.jpg');
+  background-size: cover;
+  height: 10em;
+  border-top-left-radius: 0.25em;
+  border-top-right-radius: 0.25em;
+}
+
+.katie-img {
+  background-image: url('https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/03142544/Katie-Eder.jpg');
+  background-size: cover;
+  height: 10em;
+  border-top-left-radius: 0.25em;
+  border-top-right-radius: 0.25em;
+}
+
+.nikhil-img {
+  background-image: url('https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/03113050/Nikhil-Goyal.jpg');
+  background-size: cover;
+  height: 10em;
+  border-top-left-radius: 0.25em;
+  border-top-right-radius: 0.25em;
 }
 
 .box{
