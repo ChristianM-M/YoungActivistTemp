@@ -178,66 +178,17 @@ border-top-right-radius: 0.25em;
   border-top-right-radius: 0.25em;
 }
 
-.bigaguilar-img {
-  background-image: url('https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/04112957/Celeste-Aguilar.jpg');
-  background-size: cover;
-  height: 35em;
-  border-top-left-radius: 0.25em;
-  border-top-right-radius: 0.25em;
+.card-style{
+  border-color: black;
+  margin-right: 2%;
+  margin-bottom: 5%;
 }
 
-.bigaguilar-img {
-  background-image: url('https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/04112957/Celeste-Aguilar.jpg');
-  background-size: cover;
-  height: 35em;
-  border-top-left-radius: 0.25em;
-  border-top-right-radius: 0.25em;
+.profilePic{
+  height: 200px;
+  width: 100%;
 }
 
-.bigaguilar-img {
-  background-image: url('https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/04112957/Celeste-Aguilar.jpg');
-  background-size: cover;
-  height: 35em;
-  border-top-left-radius: 0.25em;
-  border-top-right-radius: 0.25em;
-}
-
-.bigaguilar-img {
-  background-image: url('https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/04112957/Celeste-Aguilar.jpg');
-  background-size: cover;
-  height: 35em;
-  border-top-left-radius: 0.25em;
-  border-top-right-radius: 0.25em;
-}
-
-.bigaguilar-img {
-  background-image: url('https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/04112957/Celeste-Aguilar.jpg');
-  background-size: cover;
-  height: 35em;
-  border-top-left-radius: 0.25em;
-  border-top-right-radius: 0.25em;
-}
-
-.bigaguilar-img {
-  background-image: url('https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/04112957/Celeste-Aguilar.jpg');
-  background-size: cover;
-  height: 35em;
-  border-top-left-radius: 0.25em;
-  border-top-right-radius: 0.25em;
-}
-
-.bigaguilar-img {
-  background-image: url('https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/04112957/Celeste-Aguilar.jpg');
-  background-size: cover;
-  height: 35em;
-  border-top-left-radius: 0.25em;
-  border-top-right-radius: 0.25em;
-}
-
-.bigaguilar-img {
-  background-image: url('https://s3.amazonaws.com/media.youthradio.org/wp-content/uploads/2018/04/04112957/Celeste-Aguilar.jpg');
-  background-size: cover;
-  height: 35em;
-  border-top-left-radius: 0.25em;
-  border-top-right-radius: 0.25em;
+.hand {
+ cursor: pointer;
 }
