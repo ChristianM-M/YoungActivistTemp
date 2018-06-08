@@ -192,3 +192,15 @@ border-top-right-radius: 0.25em;
 .hand {
  cursor: pointer;
 }
+
+.image-limit{
+  max-width: 80px;
+}
+
+.img-limit{
+  max-width: 95px;
+}
+
+.limit-img{
+  max-width: 50px;
+}
