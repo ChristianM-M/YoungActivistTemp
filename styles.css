@@ -204,3 +204,11 @@ border-top-right-radius: 0.25em;
 .limit-img{
   max-width: 50px;
 }
+
+.background-color{
+  background-color: #fbfbfb;
+}
+
+.title-color{
+  background-color: #2e2532;
+}
